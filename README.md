@@ -1,4 +1,4 @@
-## Face Recognition:
+## Face Clustering:
 
 This is a simple Python script which uses the images from /dataset directory and generates the output feature vector is 128-d (i.e., a list of 128 real-valued numbers) that is used to quantify the face then group the similar faces together.
 
